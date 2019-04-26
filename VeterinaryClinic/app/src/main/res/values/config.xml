@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Here I have used temporary server to upload the JSON content for test purpose-->
+    <string name="server_url_pet">https://api.myjson.com/bins/1exa7c</string>
+    <string name="server_url_config">https://api.myjson.com/bins/thofc</string>
+</resources>

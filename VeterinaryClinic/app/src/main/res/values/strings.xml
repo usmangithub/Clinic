@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Veterinary Clinic</string>
+    <string name="chat_btn_text">Chat</string>
+    <string name="call_btn_text">Call</string>
+    <string name="office_hour_text">Office Hours: %s</string>
+    <string name="office_hour_in_time_text">Thank you for getting in touch with us. We’ll get back to you as soon as possible</string>
+    <string name="office_hour_out_time_text">Work hours has ended. Please contact us again on the next work day</string>
+</resources>
